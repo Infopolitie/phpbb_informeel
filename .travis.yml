@@ -23,7 +23,7 @@ before_install:
 
 before_script:
   - phpenv config-rm xdebug.ini
-	
+
 install:
  - php composer.phar install --no-interaction --prefer-source
 
