@@ -559,6 +559,7 @@ $lang = array_merge($lang, array(
 	),
 	'OPTIONS'					=> 'Opties',
 
+	'PAGE_NOT_FOUND'		=> 'De opgevraagde pagina kon niet worden gevonden.',
 	'PAGE_OF'				=> 'Pagina <strong>%1$d</strong> van <strong>%2$d</strong>',
 	'PAGE_TITLE_NUMBER'		=> 'Pagina %s',
 	'PASSWORD'				=> 'Wachtwoord',
