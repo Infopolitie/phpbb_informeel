@@ -49,7 +49,7 @@ $lang = array_merge($lang, array(
 
 	// Support page
 	'SUPPORT_TITLE'		=> 'Support',
-	'SUPPORT_BODY'		=> 'Volledige ondersteuning word gegegeven voor de huidige stabiele versie van phpBB, helemaal gratis. Dit is inclusief:</p><ul><li>Installatie</li><li>Configuratie</li><li>Technische vragen</li><li>Problemen die zijn gerelateerd aan potentiële fouten in de software</li><li>Updaten van een Release Candidate (RC) versie naar de laatste stabiele versie</li><li>Converteren van een oudere versie naar een stabiele versie</li><li>Converteren van andere forumsoftware naar phpBB3</li></ul><p>Wij moedigen gebruikers aan die nog steeds beta-versies hebben van phpBB3 hun installatie te vervangen met een nieuwe kopie van de laatste versie.</p><h2>Verkijgen van support</h2><br /><br />',
+	'SUPPORT_BODY'		=> 'Volledige ondersteuning word gegegeven voor de huidige stabiele versie van phpBB, helemaal gratis. Dit is inclusief:</p><ul><li>Installatie</li><li>Configuratie</li><li>Technische vragen</li><li>Problemen die zijn gerelateerd aan potentiële fouten in de software</li><li>Updaten van een Release Candidate (RC) versie naar de laatste stabiele versie</li><li>Converteren van een oudere versie naar een stabiele versie</li><li>Converteren van andere forumsoftware naar phpBB3</li></ul><p>Wij moedigen gebruikers aan die nog steeds beta-versies hebben van phpBB3 hun installatie te vervangen met een nieuwe kopie van de laatste versie.</p><h2>Verkijgen van support</h2><p><br /><br />',
 
 	// License
 	'LICENSE_TITLE'		=> 'General Public License',
