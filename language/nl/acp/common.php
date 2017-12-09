@@ -3,7 +3,7 @@
 *
 * This file is part of the phpBB Forum Software package.
 *
-* @copyright (c) phpBB Limited <https://www.phpbb.com>, phpBBservice.nl <http://www.phpbbservice.nl>, phpBB.nl <http://www.phpbb.nl>
+* @copyright (c) phpBB Limited <https://www.phpbb.com>, phpBBservice.nl <http://www.phpbbservice.nl>, phpBB.nl <http://www.phpbb.nl>, Infopolitie <https://www.infopolitie.nl>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 * For full copyright and license information, please see
@@ -336,7 +336,7 @@ $lang = array_merge($lang, array(
 
 // PHP info
 $lang = array_merge($lang, array(
-	'ACP_PHP_INFO_EXPLAIN'	=> 'Deze pagina geeft de informatie over de versie van PHP die geïnstalleerd is op deze server. Het bevat details van geladen modules, beschikbare variabelen en standaard instellingen. Deze informatie kan bruikbaar zijn bij het oplossen van problemen. Let op dat sommige hostingbedrijven de informatie die hier wordt getoond beperken om beveiligingsredenen. Het is aan te raden geen details van deze pagina openbaar te maken tenzij er naar gevraagd wordt door een <a href="https://www.phpbb.com/about/team/">officieel phpBB.com-teamlid</a>, <a href="https://www.phpbbservice.nl/forum/memberlist.php?mode=leaders">officiële phpBBservice.nl-teamleden</a> of <a href="https://www.phpbb.nl/medewerkers">officiële phpbb.nl-teamleden</a> op de supportforums.',
+	'ACP_PHP_INFO_EXPLAIN'	=> 'Deze pagina geeft de informatie over de versie van PHP die geïnstalleerd is op deze server. Het bevat details van geladen modules, beschikbare variabelen en standaard instellingen. Deze informatie kan bruikbaar zijn bij het oplossen van problemen. Let op dat sommige hostingbedrijven de informatie die hier wordt getoond beperken om beveiligingsredenen. Het is aan te raden geen details van deze pagina openbaar te maken tenzij er naar gevraagd wordt door een <a href="https://www.phpbb.com/about/team/">officieel phpBB.com-teamlid</a> op de supportforums.',
 
 	'NO_PHPINFO_AVAILABLE'	=> 'Informatie over je PHP-configuratie kan niet vastgesteld worden. Phpinfo() is uitgeschakeld vanwege beveiligingsredenen.',
 ));
