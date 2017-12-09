@@ -1,9 +1,9 @@
-Status: [![Build Status](https://travis-ci.org/Infopolitie/phpbb_informeel.svg?branch=master)](https://travis-ci.org/Infopolitie/phpbb_informeel)
+Travis: [![Build Status](https://travis-ci.org/Infopolitie/phpbb_informeel.svg?branch=master)](https://travis-ci.org/Infopolitie/phpbb_informeel)
 
 
 # phpbb_informeel
 
-versie 3.2.1
+versie 3.2.1 -> 3.2.2 (nieuwste wijzigingen zijn al opgenomen)
 
 Ontwikkeling van de Nederlandse phpbb vertaling.
 
