@@ -594,7 +594,7 @@ $lang = array_merge($lang, array(
 	'SMTP_VERIFY_PEER_EXPLAIN'		=> 'Vereis verificatie van het SSL-certificaat gebruikt door de SMTP-server.<br /><em><strong>Waarschuwing:</strong> Uitschakelen kan beveiligingsproblemen opleveren.</em>',
 	'SMTP_VERIFY_PEER_NAME'			=> 'Vereis peer verificatie',
 	'SMTP_VERIFY_PEER_NAME_EXPLAIN'		=> 'Vereis verificatie van de peer name for SMTP-servers met SSL-/TLS-connecties.<br /><em><strong>Waarschuwing:</strong> Uitschakelen kan beveiligingsproblemen opleveren.</em>',
-	'TEST_EMAIL_SENT'				=> 'De test-e-mail is verzonden.<br />Controleer je e-mailconfiguratie als je de test e-mail niet hebt ontvangen.<br /><br />Als je hulp nodig hebt kun je terecht op <a href="http://www.phpbb.nl/forums/index.php">phpbb.nl</a>.',
+	'TEST_EMAIL_SENT'				=> 'De test-e-mail is verzonden.<br />Controleer je e-mailconfiguratie als je de test e-mail niet hebt ontvangen.<br /><br />Als je hulp nodig hebt kun je terecht op de <a href="https://www.phpbb.com/community/">phpBB support forums</a>.',
 	'USE_SMTP'						=> 'Gebruik SMTP-server voor e-mail',
 	'USE_SMTP_EXPLAIN'				=> 'Selecteer “Ja” als je e-mail wil versturen via een genoemde server in plaats van de lokale e-mailfunctie.',
 ));
