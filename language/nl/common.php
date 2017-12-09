@@ -41,7 +41,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'TRANSLATION_INFO'	=> 'Informele Nederlandse vertaling door <a href="http://www.phpbb.nl/">Infopolitie.nl</a>.',
+	'TRANSLATION_INFO'	=> 'Vertaling door <a href="https://www.infopolitie.nl">Infopolitie.nl</a>.',
 	'DIRECTION'			=> 'ltr',
 	'DATE_FORMAT'		=> '|d M Y|',	// 01 Jan 2007 (with Relative days enabled)
 	'DATETIME_FORMAT'	=> '|d M Y, H:i|',	// 01 Jan 2007, 13:37 (with Relative days enabled)
@@ -74,7 +74,7 @@ $lang = array_merge($lang, array(
 	'AJAX_ERROR_TITLE'				=> 'AJAX-fout',
 	'AJAX_ERROR_TEXT'				=> 'Er ging iets mis met het verwerken van je aanvraag.',
 	'AJAX_ERROR_TEXT_ABORT'			=> 'Aanvraag is afgebroken door de gebruiker.',
-	'AJAX_ERROR_TEXT_TIMEOUT'		=> 'Je aanvraag is verlopen; probeer het nog een keer.',
+	'AJAX_ERROR_TEXT_TIMEOUT'		=> 'Je aanvraag is verlopen, probeer het opnieuw.',
 	'AJAX_ERROR_TEXT_PARSERERROR'	=> 'Er ging iets mis met de aanvraag en de server stuurde een ongeldige reactie terug.',
 	'ALLOWED'						=> 'Toegestaan',
 	'ALL_FILES'						=> 'Alle bestanden',
