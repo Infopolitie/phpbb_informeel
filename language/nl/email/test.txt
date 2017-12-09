@@ -4,6 +4,6 @@ Hallo {USERNAME},
 
 Gefeliciteerd. Als je deze e-mail hebt ontvangen, is je forum correct geconfigureerd om e-mails te versturen.
 
-Mocht je toch nog hulp nodig hebben, bezoek dan ons support forum via http://www.phpbb.nl/forums/index.php
+Mocht je toch nog hulp nodig hebben, bezoek dan de phpBB support forums via https://www.phpbb.com/community/
 
 {EMAIL_SIG}

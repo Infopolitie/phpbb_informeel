@@ -49,7 +49,7 @@ $lang = array_merge($lang, array(
 
 	// Support page
 	'SUPPORT_TITLE'		=> 'Support',
-	'SUPPORT_BODY'		=> 'Volledige ondersteuning word gegegeven voor de huidige stabiele versie van phpBB, helemaal gratis. Dit is inclusief:</p><ul><li>Installatie</li><li>Configuratie</li><li>Technische vragen</li><li>Problemen die zijn gerelateerd aan potentiële fouten in de software</li><li>Updaten van een Release Candidate (RC) versie naar de laatste stabiele versie</li><li>Converteren van een oudere versie naar een stabiele versie</li><li>Converteren van andere forumsoftware naar phpBB3</li></ul><p>Wij moedigen gebruikers aan die nog steeds beta-versies hebben van phpBB3 hun installatie te vervangen met een nieuwe kopie van de laatste versie.</p><h2>Verkijgen van support</h2><p><a href="http://www.phpbb.nl/forums">phpBB.nl Supportforums</a><br /><br />',
+	'SUPPORT_BODY'		=> 'Volledige ondersteuning word gegegeven voor de huidige stabiele versie van phpBB, helemaal gratis. Dit is inclusief:</p><ul><li>Installatie</li><li>Configuratie</li><li>Technische vragen</li><li>Problemen die zijn gerelateerd aan potentiële fouten in de software</li><li>Updaten van een Release Candidate (RC) versie naar de laatste stabiele versie</li><li>Converteren van een oudere versie naar een stabiele versie</li><li>Converteren van andere forumsoftware naar phpBB3</li></ul><p>Wij moedigen gebruikers aan die nog steeds beta-versies hebben van phpBB3 hun installatie te vervangen met een nieuwe kopie van de laatste versie.</p><h2>Verkijgen van support</h2><br /><br />',
 
 	// License
 	'LICENSE_TITLE'		=> 'General Public License',
@@ -359,7 +359,7 @@ $lang = array_merge($lang, array(
 		<p>De aanbevolen manier van updaten die hieronder staat beschreven is alleen geldig voor het Automatische update-pakket. Je mag je forum ook updaten met de methodes die beschreven zijn in het <a href="../docs/INSTALL.html">INSTALL.html</a> document. De stappen om phpBB3 automatisch te updaten zijn als volgt:</p>
 
 		<ul style="margin-left: 20px; font-size: 1.1em;">
-			<li>Ga naar de downloadspagina van <a href="https://www.phpbb.nl/downloads/" title="http://www.phpbb.nl/downloads/">phpBB.nl</a> en download het "Automatisch update-pakket".<br /><br /></li>
+			<li>Ga naar de downloadspagina van <a href="https://www.phpbb.com/downloads/" title="https://www.phpbb.com/downloads/">phpBB.com</a> en download het "Automatisch update-pakket".<br /><br /></li>
 				<li>Pak het archiefbestand uit.<br /><br /></li>
 			<li>Upload de uitgepakte "install"- en "vendor"-mappen naar je phpBB-hoofdmap (waar je config.php staat).<br /><br /></li>
 		</ul>
@@ -541,7 +541,7 @@ $lang = array_merge($lang, array(
 
 	// Finish conversion
 	'CONVERT_COMPLETE'			=> 'Conversie compleet',
-	'CONVERT_COMPLETE_EXPLAIN'	=> 'Je hebt succesvol je forum geconverteerd naar phpBB 3.2. Je kunt je nu <a href="../">aanmelden op je forum</a>. Voordat je de install-map verwijderd en je forum ingeschakeld, controleer of alle instellingen correct zijn overgezet. Online hulp is beschikbaar via de volgende Nederlandstalige support-website <a href="http://www.phpbb.nl/">phpBB.nl</a>.',
+	'CONVERT_COMPLETE_EXPLAIN'	=> 'Je hebt succesvol je forum geconverteerd naar phpBB 3.2.1 Je kunt je nu <a href="../">aanmelden op je forum</a>. Voordat je de install-map verwijderd en je forum ingeschakeld, controleer of alle instellingen correct zijn overgezet. Online hulp is beschikbaar via de support-website: <a href="http://www.phpbb.com/">phpBB.com</a>.',
 
 	'CONV_ERROR_ATTACH_FTP_DIR'			=> 'FTP-upload voor bijlagen is ingeschakeld op het oude forum. Schakel de FTP-uploadoptie uit en zorg ervoor dat je een geldige uploadmap opgeeft, kopieer daarna alle bijlagenbestanden naar de nieuwe web toegankelijke map. Wanneer je dit hebt gedaan, herstart je de convertor.',
 	'CONV_ERROR_CONFIG_EMPTY'			=> 'Er is geen configuratie-informatie beschikbaar voor de conversie.',
