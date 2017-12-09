@@ -1,4 +1,4 @@
-phpBB Translation Validator: [![Build Status](https://travis-ci.org/infopolitie/phpbb_informeel.svg?branch=master)](https://travis-ci.org/infopolitie/phpbb_informeel)
+Status: [![Build Status](https://travis-ci.org/Infopolitie/phpbb_informeel.svg?branch=master)](https://travis-ci.org/Infopolitie/phpbb_informeel)
 
 #phpbb_informeel
 
