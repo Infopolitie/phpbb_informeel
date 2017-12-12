@@ -175,8 +175,8 @@ $lang = array_merge($lang, array(
 	'CONGRATULATIONS'		=> 'Felicitaties aan',
 	'CONNECTION_FAILED'		=> 'Verbinding verbroken.',
 	'CONNECTION_SUCCESS'	=> 'Succesvol verbonden!',
-	'CONTACT'				=> 'Contacteer',
-	'CONTACT_USER'			=> 'Contacteer %s',
+	'CONTACT'				=> 'Contact',
+	'CONTACT_USER'			=> 'Contact %s',
 	'CONTACT_US'			=> 'Contact',
 	'COOKIE_CONSENT_INFO'	=> 'Meer informatie',
 	'COOKIE_CONSENT_MSG'	=> 'Deze website maakt gebruik van cookies om de beste surfervaring te kunnen bieden.',
@@ -792,14 +792,14 @@ $lang = array_merge($lang, array(
 	'TOPIC_POLL'		=> 'Dit onderwerp heeft een peiling.',
 	'TOTAL_POSTS'		=> 'Aantal berichten',
 	'TOTAL_POSTS_COUNT'	=> array(
-		2	=> 'Aantal berichten <strong>%d</strong>',
+		2	=> 'Aantal berichten: <strong>%d</strong>',
 	),
 	'TOPIC_REPORTED'	=> 'Dit onderwerp is gemeld',
 	'TOTAL_TOPICS'		=> array(
-		2	=> 'Aantal onderwerpen <strong>%d</strong>',
+		2	=> 'Aantal onderwerpen: <strong>%d</strong>',
 	),
 	'TOTAL_USERS'		=> array(
-		2	=> 'Aantal leden <strong>%d</strong>',
+		2	=> 'Aantal leden: <strong>%d</strong>',
 	),
 	'TRACKED_PHP_ERROR'	=> 'Bijgehouden PHP-fouten: %s',
 	'TWITTER'		=> 'Twitter',
